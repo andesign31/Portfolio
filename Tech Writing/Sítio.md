@@ -26,4 +26,14 @@ Hoje, ele ainda continua dando aulas, porém, por conta da pandemia e as mudanç
 
 **Michele Mercês -** A esposa, mãe e companheira de todas as horas, é a responsável por toda a admistração do sítio. É ela que cuida dos detalhes, desde a alimentação, a decoração e passando pela logística das compras e produção de alimentos orgânicos produzidos no sítio. A sua experiência trabalhando por anos em escolas como cozinheira ajudou muito para que ela pudesse ter capacidade para gerir todas as demandas da propriedade.
 
-**Henry Barbosa -** O filho do meio, aquele que saiu da cidade e foi para o campo junto com os pais,
+**Henry Barbosa -** O filho do meio, aquele que saiu da cidade e foi para o campo junto com os pais. Hoje estuda e colabora de forma muito importante em todas as tarefas necessárias para que tudo corra bem.
+Além da sua importante participação nos afazeres, ele também é uma das figuras que proporcionam momentos de diversão, admiração e de conversas longas durante o dia ou noites.
+
+**Nayla Barbosa -** A mais nova, mais cheia de personalidade. Uma garota no auge dos seus 9 anos de idade e que mesmo tão pequena ja sabe o que quer para sua vida. Está sempre pronta para fazer algo novo, viver uma aventura, jogar algum jogo. Mas no que ela vem se destacando ultimamente é na culinária. Anda preparando diversas sobremesas no qual todos estamos tendo a oportunidade de saborear e de acompanhar a sua evolução.
+
+## Quem já visitou
+![alt text](Fran.jpg)
+As visitas são variadas  e sempre cheias de histórias para relembrarmos.
+![alt text](KLB.jpg)
+
+Famílias sempre presentes, amigos juntos desde a juventude.
