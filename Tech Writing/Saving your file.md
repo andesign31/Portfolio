@@ -1,6 +1,6 @@
+# Photoshop Tools
+
 # Saving your file 
-
-
 
  **JPEG/JPG:** JPEG is a widely used format for photographs and web graphics. It offers a good balance between file size and image quality. JPEGs use lossy compression, meaning some image data is discarded, which can result in a loss of quality if the file is repeatedly edited and saved. 
 
