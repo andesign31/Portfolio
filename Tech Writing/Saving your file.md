@@ -40,7 +40,7 @@
 - Choose PSD from the Format dropdown menu. 
 - Click Save. 
 
-**How to save a file in Photoshop:** How to save a file in photoshop https://www.youtube.com/watch?v=72SCsp0aBms&pp=ygUfaG93IHRvIHNhdmUgYSBmaWxlIGluIHBob3Rvc2hvcA%3D%3D 
+**How to save a file in Photoshop:** [Video tutorial]( https://www.youtube.com/watch?v=72SCsp0aBms&pp=ygUfaG93IHRvIHNhdmUgYSBmaWxlIGluIHBob3Rvc2hvcA%3D%3D )
 
  
 
