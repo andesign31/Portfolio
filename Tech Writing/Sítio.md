@@ -7,8 +7,8 @@
 * **Localização**
 
 ## O que fazer?
-O sítio Recanto dos Palmares é um lugar para você fugir da rotin.
-Segue uma lista com tods as atividades que você pode realizar durante sua visita:
+O sítio Recanto dos Palmares é um lugar para você fugir da rotina.
+Segue uma lista com todas as atividades que você pode realizar durante sua visita:
 1. Acampamento: Venha passar a noite em uma das nossas barracas, curtir o luar e observar as estrelas. Tudo isso acompanhado de muitas estrelas que podem ser vistas sem aquela poluição já tradicional das cidades grandes. Tudo isso curtindo aquela fogueira, um bom vinho e aquele petisco especial que você só encontra aqui.
 
 2. Comer: A comida no Sítio Reacanto dos Palmares é algo muito especial. Aqui você vai encontrar aquele cardápio daquela comida mineira que é sucesso em qualquer lugar do país, porém, com o tempero da nossa Chef e proprietária Michele Mercês.
