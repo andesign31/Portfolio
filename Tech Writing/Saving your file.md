@@ -1,3 +1,5 @@
+![alt text](Layout.png)
+
 # Photoshop Tools
 
 # Saving your file 
