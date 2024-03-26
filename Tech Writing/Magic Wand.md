@@ -12,7 +12,6 @@ Imagine being able to quickly and accurately select objects, remove backgrounds,
 ![Select Magic wand](magic-wand-tool-shortcut.png)
 
 2. **Adjust Tool Settings:** At the top of the Photoshop window, you will see the Options Bar. Here, you can adjust the tool settings including Tolerance (which determines how similar in color a pixel must be to the selected pixel to be included in the selection), Sample Size, and Anti-aliasing.
-   
 ![alt text](<Option bar.png>)
 
 4. **Making your selection:** Click on the area of the image you want to select with the Magic Wand Tool. It will select pixels based on the color and tone of the pixel you clicked on.
@@ -20,6 +19,7 @@ Imagine being able to quickly and accurately select objects, remove backgrounds,
 ![alt text](MagicWand-hero-2x-2x.jpg.img.jpg) 
 
 6. **Refine the Selection:** To add to the selection, hold down the Shift key and click on additional areas you want to select. To subtract from the selection, hold down the Alt/Option key and click on the areas you want to remove
+   
    
 ![alt text](maxresdefault.jpg)
 
