@@ -1,5 +1,5 @@
-
 ![alt text](windfinder-logo-vector.png)
+
 # Windfinder
 
 ## The weather in the palm of your hand
