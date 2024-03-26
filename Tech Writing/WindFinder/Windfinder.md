@@ -8,10 +8,9 @@ Windfinder is a comprehensive application designed to provide detailed forecasts
 
 ### Features
 
-**Detailed Forecasts:** 
-
 ![alt text](Screenshot1.png)![alt text](Screenshot2.png)![alt text](Screenshot3.png)
 
+**Detailed Forecasts:** 
 Windfinder offers wind and weather forecasts in 3-hour intervals, reaching up to 10 days into the future.
 
 **Animated Maps:** Animated wind maps provide an overview of wind conditions on a regional and global scale.
