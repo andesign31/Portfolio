@@ -38,5 +38,4 @@ As visitas são variadas  e sempre cheias de histórias para relembrarmos.
 
 Famílias sempre presentes, amigos juntos desde a juventude e claro, muitas risadas, brincadeiras e parcerias reais. 
 
-[Localização]
-(https://maps.app.goo.gl/5somjp9d37ACsTDs9)
+[Localização](https://maps.app.goo.gl/5somjp9d37ACsTDs9)
