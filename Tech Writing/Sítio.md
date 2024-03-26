@@ -36,7 +36,10 @@ Além da sua importante participação nos afazeres, ele também é uma das figu
 As visitas são variadas  e sempre cheias de histórias para relembrarmos.
 ![alt text](KLB.jpg)
 
-![alt text](<family 0003.jpg>)
+![alt text][def]
 Famílias sempre presentes, amigos juntos desde a juventude e claro, muitas risadas, brincadeiras e parcerias reais. 
 
 [Localização](https://maps.app.goo.gl/5somjp9d37ACsTDs9)
+
+
+[def]: <family 0003.jpg>
