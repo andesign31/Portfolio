@@ -28,7 +28,7 @@ Imagine being able to quickly and accurately select objects, remove backgrounds,
 9. **Deselect:** To deselect the area, you can go to the Select menu and choose Deselect, or use the keyboard shortcut Ctrl+D (Windows) or Command+D (Mac). 
 
 ### Video tutorial:  
-**Magic wand tutorial** https://www.youtube.com/watch?v=Dl9TYrUzeMc
+[Magic wand tutorial](https://www.youtube.com/watch?v=Dl9TYrUzeMc)
 
 
 
