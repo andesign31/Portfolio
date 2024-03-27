@@ -1,3 +1,5 @@
+![alt text](Information-security.png)
+
 # Cyber Security
 ## 1. Security Principles 
 Cybersecurity principles are fundamental to protecting information and systems against digital attacks. Here is a list of each principle and how they contribute to a highly effective security posture:
