@@ -53,57 +53,30 @@ In addition to these, there are other important vulnerabilities such as:
 ## 3. Prevention Techniques
 
 Prevention techniques in cybersecurity are essential to protect web applications from threats and attacks. Here are some of the recommended practices:
-
-- **Education and Continuous Training**: It is crucial to promote regular training to keep employees informed about the latest threats and how to prevent them.
-
-- **Identity and Access Management**: Implement strong authentication and authorization policies to control access to critical resources.
-
-- **Updates and Maintenance**: Keep all systems and software up to date with the latest security patches to protect against known vulnerabilities.
-
-- **Regular Backups**: Perform frequent backups and restoration tests to ensure data recovery in case of an attack or failure.
-
-- **Defense in Layers**: Use multiple layers of security, such as firewalls, antivirus, and intrusion detection systems, to create redundancy.
-
-- **Incident Response Planning**: Develop and test incident response plans to be prepared to act quickly in case of a security breach.
-
-- **Physical Security**: Protect equipment and data centers against unauthorized physical access.
-
-- **Regular Risk Assessment**: Conduct periodic risk assessments to identify and mitigate potential security vulnerabilities.
+| Techniques |
+|----------|
+| - **Education and Continuous Training**: It is crucial to promote regular training to keep employees informed about the latest threats and how to prevent them. | 
+| - **Identity and Access Management**: Implement strong authentication and authorization policies to control access to critical resources. | 
+|- **Updates and Maintenance**: Keep all systems and software up to date with the latest security patches to protect against known vulnerabilities. | 
+| - **Regular Backups**: Perform frequent backups and restoration tests to ensure data recovery in case of an attack or failure. | 
+|- **Regular Backups**: Perform frequent backups and restoration tests to ensure data recovery in case of an attack or failure. |
+| - **Defense in Layers**: Use multiple layers of security, such as firewalls, antivirus, and intrusion detection systems, to create redundancy. | 
+|- **Incident Response Planning**: Develop and test incident response plans to be prepared to act quickly in case of a security breach.|
+| - **Physical Security**: Protect equipment and data centers against unauthorized physical access. | 
+| - **Regular Risk Assessment**: Conduct periodic risk assessments to identify and mitigate potential security vulnerabilities. |
 
 ## 4. Security Tools:
 
 **Protect your web application with the right tools.**
 There are various tools and software programs that can help identify and mitigate security risks in web applications. Below, we list some examples and their functions:
-
-**1. Web Application Firewalls (WAFs)**:
-Protect against common attacks like SQL injection and XSS.
-Work by examining web traffic and blocking suspicious activity.
-Example: Cloudflare.
-
-**2. Vulnerability Scanning Tools**:
-Identify security vulnerabilities in applications and infrastructure.
-Allow for proactive patching of flaws before they are exploited by attackers.
-Examples: Rapid7, WhiteHat.
-
-**3. Security Scanners**:
-Perform automated scans for known vulnerabilities in web applications.
-Speed up the process of identifying flaws and facilitate remediation.
-Example: StackHawk.
-
-**4. Password Managers**:
-Assist in creating and storing strong passwords.
-Reduce the risk of brute-force and phishing attacks.
-Example: NordPass.
-
-**5. Anti-Malware Solutions**:
-Offer protection against various types of malware, such as phishing, spyware, and ransomware.
-Are essential for protecting the web application and its users against malicious attacks.
-Examples: Avast, Kaspersky.
-
-**6. Risk Analysis Tools**:
-Allow for the identification of potential risks and the development of strategies to mitigate them.
-Assist in creating a robust and effective security plan.
-Examples: Brainstorming, SWOT analysis.
+| Tools |
+|----------|
+|**Web Application Firewalls (WAFs)** : Protect against common attacks like SQL injection and XSS. Work by examining web traffic and blocking suspicious activity. Example: Cloudflare.|
+|**Vulnerability Scanning Tools**: Identify security vulnerabilities in applications and infrastructure. Allow for proactive patching of flaws before they are exploited by attackers. Examples: Rapid7, WhiteHat.|
+|**Security Scanners**: Perform automated scans for known vulnerabilities in web applications. Speed up the process of identifying flaws  and   facilitate     remediation.xample: StackHawk.|
+|**Password Managers**: Assist in creating and storing strong passwords. Reduce the risk of brute-force and phishing attacks. Example: NordPass.|
+|**Anti-Malware Solutions**: Offer protection against various types of malware, such as phishing, spyware, and ransomware.Are essential for protecting the web application and its users against malicious attacks. Examples: Avast, Kaspersky.|
+|**Risk Analysis Tools**: Allow for the identification of potential risks and the development of strategies to mitigate them.Assist in creating a robust and effective security plan.Examples: Brainstorming, SWOT analysis.|
 
 
 **Remember**:
@@ -114,20 +87,24 @@ Web application security is an ongoing process that requires constant attention.
 
 ## 5. Study case
 
+
 Real-World Security Breaches and How They Could Have Been Prevented
 Analyze some real-world examples of security breaches and discuss how they could have been prevented:
 
-**1. Central Bank of Brazil Data Breach**: In January 2022, personal data linked to PIX keys was exposed due to a security incident at a payment company. Information such as full name, CPF, branch number, and account number were potentially exposed.
+|**1. Central Bank of Brazil Data Breach**| 
+|-------------|
+ In January 2022, personal data linked to PIX keys was exposed due to a security incident at a payment company. Information such as full name, CPF, branch number, and account number were potentially exposed.|
+|**Prevention**: This incident could have been prevented with more rigorous data security management, frequent audits, and the implementation of stronger access controls to protect sensitive information.|
 
-**Prevention**: This incident could have been prevented with more rigorous data security management, frequent audits, and the implementation of stronger access controls to protect sensitive information.
-
-**2. Marriott International**: In 2018, Marriott International suffered a data breach that affected about 500 million customers. Hackers accessed information such as names, email addresses, and travel details.
-
+|**2. Marriott International**|
+|--------|
+ In 2018, Marriott International suffered a data breach that affected about 500 million customers. Hackers accessed information such as names, email addresses, and travel details.
 **Prevention**: The adoption of a more robust cybersecurity strategy, including the encryption of sensitive data and continuous monitoring of systems to detect suspicious activity, could have minimized the risk of such a breach.
 
-**3. Phishing Attacks**: Phishing remains one of the main forms of security breach, where attackers use fraudulent emails or messages to deceive victims and obtain confidential information.
-
-**Prevention**: Continuous education and training of employees on cybersecurity and the implementation of advanced email filters can significantly reduce the risk of phishing attacks.
+|**3. Phishing Attacks**|
+|-------|
+ Phishing remains one of the main forms of security breach, where attackers use fraudulent emails or messages to deceive victims and obtain confidential information.
+**Prevention**: Continuous education and training of employees on cybersecurity and the implementation of advanced email filters can significantly reduce the risk of phishing attacks.|
 
 These examples highlight the importance of a proactive and layered approach to cybersecurity, which includes both technology and human awareness to prevent security breaches.
 
