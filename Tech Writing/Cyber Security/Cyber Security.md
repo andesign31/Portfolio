@@ -88,32 +88,28 @@ Web application security is an ongoing process that requires constant attention.
 ## 5. Study case
 
 
-Real-World Security Breaches and How They Could Have Been Prevented
+**Real-World Security Breaches and How They Could Have Been Prevented**
 Analyze some real-world examples of security breaches and discuss how they could have been prevented:
 
-|**1. Central Bank of Brazil Data Breach**| 
-|-------------|
- In January 2022, personal data linked to PIX keys was exposed due to a security incident at a payment company. Information such as full name, CPF, branch number, and account number were potentially exposed.|
-|**Prevention**: This incident could have been prevented with more rigorous data security management, frequent audits, and the implementation of stronger access controls to protect sensitive information.|
+|**1. Central Bank of Brazil Data Breach**|**Prevention**|
+|-----------------------------------------|--------------|
+ |In January 2022, personal data linked to PIX keys was exposed due to a security incident at a payment company. Information such as full name, CPF, branch number, and account number were potentially exposed.| This incident could have been prevented with more rigorous data security management, frequent audits, and the implementation of stronger access controls to protect sensitive information.|
 
-|**2. Marriott International**|
-|--------|
- In 2018, Marriott International suffered a data breach that affected about 500 million customers. Hackers accessed information such as names, email addresses, and travel details.
-**Prevention**: The adoption of a more robust cybersecurity strategy, including the encryption of sensitive data and continuous monitoring of systems to detect suspicious activity, could have minimized the risk of such a breach.
+|**2. Marriott International**|**Prevention**|
+|-----------------------------|--------------|
+ In 2018, Marriott International suffered a data breach that affected about 500 million customers. Hackers accessed information such as names, email addresses, and travel details. | The adoption of a more robust cybersecurity strategy, including the encryption of sensitive data and continuous monitoring of systems to detect suspicious activity, could have minimized the risk of such a breach
 
-|**3. Phishing Attacks**|
-|-------|
- Phishing remains one of the main forms of security breach, where attackers use fraudulent emails or messages to deceive victims and obtain confidential information.
-**Prevention**: Continuous education and training of employees on cybersecurity and the implementation of advanced email filters can significantly reduce the risk of phishing attacks.|
+|**3. Phishing Attacks**|**Prevention**|
+|------|---|
+ Phishing remains one of the main forms of security breach, where attackers use fraudulent emails or messages to deceive victims and obtain confidential information.|  Continuous education and training of employees on cybersecurity and the implementation of advanced email filters can significantly reduce the risk of phishing attacks|
+
 
 These examples highlight the importance of a proactive and layered approach to cybersecurity, which includes both technology and human awareness to prevent security breaches.
 
 Here are some additional details about each of the security breaches mentioned:
 
 **Central Bank of Brazil Data Breach**:
-The data breach was caused by a vulnerability in the security of the payment company's systems.
-The exposed data could be used for identity theft, fraud, and other malicious purposes.
-The Central Bank of Brazil is investigating the incident and has taken steps to mitigate the risks to customers.
+The data breach was caused by a vulnerability in the security of the payment company's systems. The exposed data could be used for identity theft, fraud, and other malicious purposes.The Central Bank of Brazil is investigating the incident and has taken steps to mitigate the risks to customers.
 
 **Marriott International Data Breach**:
 The data breach was caused by a hacker attack on Marriott's systems.
@@ -128,15 +124,15 @@ By taking steps to prevent security breaches, organizations can protect their da
 
 ## 6. Legislation and Compliance
 
-The **Brazilian General Data Protection Law (LGPD)**, which came into effect in August 2020, is the primary legislation governing the use and protection of personal data in Brazil. The law applies to any data processing carried out within the Brazilian territory, or to data processing activities aimed at offering or providing goods or services to individuals located in Brazil¹.
+The **Brazilian General Data Protection Law (LGPD)**, which came into effect in August 2020, is the primary legislation governing the use and protection of personal data in Brazil. The law applies to any data processing carried out within the Brazilian territory, or to data processing activities aimed at offering or providing goods or services to individuals located in Brazil.
 
-Key provisions of the LGPD include:
-
-- **Respect for Privacy**: The law is built on the foundation of respecting the privacy of individuals.
-- **Informational Self-Determination**: Individuals have the right to control their personal data.
-- **Freedom of Expression**: The law ensures that data protection does not infringe on the freedom of expression, information, communication, and opinion.
-- **Inviolability of Intimacy**: The LGPD protects the intimacy, honor, and image of individuals.
-- **Economic and Technological Development**: The law supports innovation while ensuring data protection.
+|Key provisions of the LGPD include:|
+|-----|
+|- **Respect for Privacy**: The law is built on the foundation of respecting the privacy of individuals.|
+|- **Informational Self-Determination**: Individuals have the right to control their personal data.
+|- **Freedom of Expression**: The law ensures that data protection does not infringe on the freedom of expression, information, communication, and opinion.
+|- **Inviolability of Intimacy**: The LGPD protects the intimacy, honor, and image of individuals.
+|- **Economic and Technological Development**: The law supports innovation while ensuring data protection.|
 
 To ensure that web applications comply with data protection laws like the LGPD, organizations should take the following steps:
 
