@@ -1,0 +1,104 @@
+# Photoshop Clone Stamp Tool Documentation  
+
+## Table of Contents  
+1. [Introduction](#introduction)  
+2. [How to Access the Tool](#how-to-access-the-tool)  
+3. [How to Use the Clone Stamp](#how-to-use-the-clone-stamp)  
+4. [Common Use Cases](#common-use-cases)  
+5. [Troubleshooting](#troubleshooting)  
+6. [Tips for Better Results](#tips-for-better-results)  
+7. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)  
+8. [Support and Contact](#support-and-contact)  
+9. [How to Publish on GitHub](#how-to-publish-on-github)  
+
+---
+
+## Introduction  
+The **Clone Stamp Tool** in Adobe Photoshop allows you to copy pixels from one area of an image and paint them onto another area. It is commonly used to:  
+- Remove unwanted objects (e.g., wires, blemishes).  
+- Repair damaged photos (e.g., scratches, stains).  
+- Duplicate elements (e.g., trees, clouds).  
+
+**Target Audience**:  
+- Adults with basic computer skills and minimal Photoshop experience.  
+
+---
+
+## How to Access the Tool  
+1. Open Photoshop and load an image.  
+2. In the **Tools Panel** on the left, click the **Clone Stamp Tool** icon (resembles a rubber stamp).  
+   - **Keyboard Shortcut**: Press the **S** key.  
+3. Ensure the tool is active in the top toolbar:  
+   ![Clone Stamp Icon](images/clone_stamp_icon.png) *(Replace with your image path)*  
+
+---
+
+## How to Use the Clone Stamp  
+### Basic Step-by-Step Guide:  
+1. **Select the Source Area**:  
+   - Press **Alt (Windows)** or **Option (Mac)** and click the area you want to copy.  
+2. **Adjust the Brush**:  
+   - In the top toolbar, set the brush **Size** and **Hardness**.  
+     - Small size: For precise edits.  
+     - Low hardness: For soft edges.  
+3. **Paint the Cloned Area**:  
+   - Click and drag over the area you want to cover.  
+
+![Usage Example](images/clone_stamp_example.gif) *(Replace with your GIF/image path)*  
+
+---
+
+## Common Use Cases  
+### 1. Removing Unwanted Objects  
+- Clone nearby areas (e.g., grass to cover a rock in a landscape).  
+- Use medium-hardness brushes to blend edges naturally.  
+
+### 2. Fixing Skin Imperfections  
+- Copy smooth skin areas to cover acne, wrinkles, or scars.  
+
+### 3. Duplicating Elements  
+- Clone leaves, clouds, or textures to fill empty spaces.  
+
+---
+
+## Troubleshooting  
+| Issue                       | Solution                                  |  
+|-----------------------------|-------------------------------------------|  
+| **Colors Don’t Match**      | Reduce brush opacity (50-80%) in the top toolbar. |  
+| **Repetitive Patterns**     | Frequently reselect the source area (press **Alt/Option** again). |  
+| **Tool Not Responding**     | Check if the correct layer is selected in the **Layers Panel**. |  
+
+---
+
+## Tips for Better Results  
+- **Zoom In**: Use **Ctrl/Cmd + +** to work on fine details.  
+- **Use Layers**: Create a new layer to preserve the original image.  
+- **Alignment**: Enable **Aligned** in the top toolbar for seamless cloning.  
+
+---
+
+## Frequently Asked Questions (FAQ)  
+**Q: Can I use the Clone Stamp on videos?**  
+- No, this tool works only on static images.  
+
+**Q: How do I undo a mistake?**  
+- Press **Ctrl + Z (Windows)** or **Cmd + Z (Mac)** to undo the last action.  
+
+**Q: What’s the difference between Clone Stamp and Healing Brush?**  
+- Clone Stamp copies pixels exactly, while Healing Blend automatically blends colors.  
+
+---
+
+## Support and Contact  
+- **Adobe Official Guide**: [Clone Stamp Tool Documentation](https://helpx.adobe.com/photoshop/using/clone-stamp-tool.html)  
+- **Report Issues**: Open a [GitHub Issue](https://github.com/your-username/your-repo/issues) in this repository.  
+
+---
+
+## How to Publish on GitHub  
+1. Create a repository named `photoshop-clone-stamp-docs`.  
+2. Save this text as `README.md` in the main folder.  
+3. Add images to an `images/` subfolder and update the links above.  
+4. Use [GitHub Pages](https://pages.github.com/) to host the documentation as a website.  
+
+Example folder structure:  
